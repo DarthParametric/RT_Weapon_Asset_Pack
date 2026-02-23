@@ -1,10 +1,12 @@
 # Weapon Asset Pack
 A mod for Owlcat's Rogue Trader cRPG. Provides a collection of weapon prefabs that can be externally referenced by 3rd party RT mods.
 
+<p align="center"><img src="Images/Splash.jpg?raw=true" width="600" height="250"/></p>
+
 ## Overview
 This mod adds a selection of custom weapon prefabs that mod authors can reference in their own blueprints without needing to add the content to their own mod. A selection of ranged and melee weapons are available, which will be expanded over time.
 
-Mod users will need to install this mod alongside whatever 3rd party mods they want that reference its assets.
+Mod users will need to install this mod alongside whatever 3rd party mods they want that reference its assets. This mod does not add any content to the game directly by itself.
 
 ## Installation
 ### For endusers:
