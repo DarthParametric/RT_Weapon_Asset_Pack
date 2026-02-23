@@ -7,7 +7,7 @@ This mod adds a selection of custom weapon prefabs that mod authors can referenc
 Mod users will need to install this mod alongside whatever 3rd party mods they want that reference its assets.
 
 ## Installation
-***For endusers:***
+### For endusers:
 This is an Owlmod, made using the Unity template supplied by Owlcat. In order to properly load custom assets, you ***must*** install the Unity Mod Manager-based mod [MicroPatches](https://github.com/microsoftenator2022/MicroPatches/releases) by microsoftenator2022. You can install it manually or via [ModFinder RT](https://www.nexusmods.com/warhammer40kroguetrader/mods/146).
 
 Use [ModFinder RT](https://www.nexusmods.com/warhammer40kroguetrader/mods/146) to install this mod automagically.
@@ -39,7 +39,7 @@ If you have other mods, list them in quotes separated by commas. For example:
 
 You can move individual mods from the ActiveModifications section to the DisabledModifications section if you want to disable them without physically removing them.
 
-***For Mod Authors:***
+### For Mod Authors:
 Ensure you have the mod template prepared ([refer to the initial setup guide](https://github.com/WittleWolfie/OwlcatModdingWiki/wiki/Initial-Setup-of-v1.5-Rogue-Trader-Template)) and that you have installed the template component of [MicroPatches](https://github.com/microsoftenator2022/MicroPatches/releases) (MicroPatches-Editor-Installer.exe).
 
 Download a copy of the asset pack's mod folder from the [releases section](https://github.com/DarthParametric/DPWeaponAssetPack/releases/latest) and extract it to `WhRtModTemplate\Assets\Modifications\` alongside your existing mod project/s.
