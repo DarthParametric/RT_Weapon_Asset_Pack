@@ -59,7 +59,7 @@ If you are manually editing blueprints rather than using the template, refer to 
 While not strictly necessary, it is suggested that you add the asset pack's ID (DPWeaponAssetPack) to your mod's dependency list. This will ensure that ModFinder will flag it as required when users install your mod.
 
 ## Known Issues
-There are numerous issues with hand positioning and (excessive) rotation across multiple animations and weapon types. This is a vanilla issue. In practice you'll never see it due to the isometric camera position. But it makes taking close-up screenshots _really_ annoying.
+There are numerous issues with hand positioning and (excessive) wrist rotation across multiple animations and weapon types. This is a vanilla issue. In practice you'll never see it due to the isometric camera position. But it makes taking close-up screenshots _really_ annoying.
 
 ## Acknowledgements
 Many thanks to the modders on the Owlcat Discord, but particularly Kurufinve, microsoftenator2022, and ADDB for helping to coach me through my ineptitude in order to get the mod working. Thanks to thehambeard for the port of Cinematic Unity Explorer and troubleshooting issues with the dollroom in my attempts to get decent screenshots.
