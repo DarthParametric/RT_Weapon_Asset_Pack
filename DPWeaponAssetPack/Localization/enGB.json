@@ -1,61 +1,22 @@
 {
 	"strings": {
-		"DP_Plasma_Cannon_Red_Item_DisplayName": {
-			"Text": "[Test-Pattern] Plasma Cannon Red"
-		},
-		"DP_Plasma_Cannon_Red_Item_Description": {
-			"Text": "Plasma Cannon Red description here.",
-		},
-		"DP_Plasma_Cannon_Black_Item_DisplayName": {
-			"Text": "[Test-Pattern] Plasma Cannon Black"
-		},
-		"DP_Plasma_Cannon_Black_Item_Description": {
-			"Text": "Plasma Cannon Black description here.",
-		},
-		"DP_Plasma_Cannon_Green_Item_DisplayName": {
-			"Text": "[Test-Pattern] Plasma Cannon Green"
-		},
-		"DP_Plasma_Cannon_Green_Item_Description": {
-			"Text": "Plasma Cannon Green description here.",
-		},
-		"DP_Plasma_Cannon_Yellow_Item_DisplayName": {
-			"Text": "[Test-Pattern] Plasma Cannon Yellow"
-		},
-		"DP_Plasma_Cannon_Yellow_Item_Description": {
-			"Text": "Plasma Cannon Yellow description here.",
-		},
-		"DP_Bolt_Sniper_Item_DisplayName": {
-			"Text": "[Test-Pattern] Bolt Sniper Rifle"
-		},
-		"DP_Bolt_Sniper_Item_Description": {
-			"Text": "Bolt Sniper Rifle description here.",
-		},
-		"JD_AutogunM40_Item_DisplayName": {
-			"Text": "[JD Pattern] Autogun M40 Black"
-		},
-		"DP_Dummy_Plasma_Cannon_DisplayName": {
-			"Text": "Dummy Plasma Cannon BP - Do not use",
-		},
 		"DP_Dummy_Bolt_Sniper_DisplayName": {
 			"Text": "Dummy Bolt Sniper BP - Do not use",
 		},
 		"DP_Dummy_Lascannon_DisplayName": {
 			"Text": "Dummy Lascannon BP - Do not use",
 		},
-		"DP_Dummy_PowerSword_DisplayName": {
-			"Text": "Dummy Power Sword BP - Do not use",
+		"DP_Dummy_Plasma_Cannon_DisplayName": {
+			"Text": "Dummy Plasma Cannon BP - Do not use",
 		},
 		"DP_Dummy_ForceSword_DisplayName": {
 			"Text": "Dummy Force Sword BP - Do not use",
 		},
-		"DP_Dummy_ForceSword2_DisplayName": {
-			"Text": "Dummy Force Sword2 BP - Do not use",
-		},
-		"DP_Dummy_ForceSword3_DisplayName": {
-			"Text": "Dummy Force Sword3 BP - Do not use",
-		},
 		"DP_Dummy_ForceGreatsword_DisplayName": {
 			"Text": "Dummy Force Greatsword BP - Do not use",
+		},
+		"DP_Dummy_PowerSword_DisplayName": {
+			"Text": "Dummy Power Sword BP - Do not use",
 		}
 	}
 }

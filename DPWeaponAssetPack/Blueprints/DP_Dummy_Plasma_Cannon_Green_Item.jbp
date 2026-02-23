@@ -1,24 +1,18 @@
 {
-  "AssetId": "5aec63a3c36d4059838b3419d32ef565",
+  "AssetId": "599dab57850748c28df8aafd1386016a",
   "Data": {
     "$type": "c00f723cccf2d314198c42a572c631fd, BlueprintItemWeapon",
-    "PrototypeLink": "3ef5c9b1be5c44ef900d06f78ef1c641",
+    "PrototypeLink": "76108157e1724810b869c2e7924ee17b",
     "m_Overrides": [
-      "Author",
-      "m_FlavorText",
+      "m_DisplayName",
       "$EquipmentRestrictionHasFacts$c122edc0-1614-472c-8160-8257d5f536c7",
       "$EquipmentRestrictionStat$e44133fa-d538-47ea-b8ec-fcbaff2accb6",
       "$EquipmentRestrictionHasFacts$78882ab2-1160-4515-a2a7-3d0441d70c5a",
-      "m_DisplayName",
-      "m_Description",
-      "m_VisualParameters.m_WeaponModel",
-      "Family",
-      "Classification",
       "m_Icon",
-      "WeaponAbilities.Ability1.m_FXSettings",
-      "WeaponAbilities.Ability2.m_Ability",
-      "WeaponAbilities.Ability2.m_FXSettings",
-      "Comment"
+      "m_VisualParameters.m_WeaponModel",
+      "Author",
+      "Comment",
+      "m_Description"
     ],
     "Components": [
       {
@@ -71,7 +65,7 @@
     "Author": "Unknown",
     "Comment": "",
     "m_DisplayName": {
-      "m_Key": "DP_Dummy_Lascannon_DisplayName",
+      "m_Key": "DP_Dummy_Plasma_Cannon_DisplayName",
       "m_OwnerString": "",
       "m_OwnerPropertyPath": "",
       "m_JsonPath": "",
@@ -85,7 +79,7 @@
       "Shared": null
     },
     "m_Icon": {
-      "guid": "b806d16008f6b8946b5ac603a1bc8d95",
+      "guid": "1fd96a2f30fdd3249ae305c4e9ba182d",
       "fileid": 21300000
     },
     "m_FlavorText": {
@@ -134,8 +128,8 @@
       "m_SpecialAnimation": "None",
       "m_BurstAnimationDelay": 0.0,
       "m_WeaponModel": {
-        "guid": "64e535400ada0774bb6ecda6973daf5d",
-        "fileid": 4236359383697859554
+        "guid": "91f330a52fae77847b66ca40873ba7cc",
+        "fileid": 2445649657973465796
       },
       "m_WeaponBeltModelOverride": null,
       "m_WeaponSheathModelOverride": null,
@@ -167,7 +161,7 @@
         "Type": "AOE",
         "Mode": "Default",
         "m_Ability": "!bp_a489b6d823ef4b86b431aa1d42e385c7",
-        "m_FXSettings": "!bp_2af34bcf613b48818d95394007e14e56",
+        "m_FXSettings": "!bp_9fce4d1e156f42b7b962157080bc595a",
         "OnHitOverrideType": "None",
         "m_OnHitActions": null,
         "AP": 3
@@ -175,8 +169,8 @@
       "Ability2": {
         "Type": "AOE",
         "Mode": "Any",
-        "m_Ability": "!bp_0bc1f945b05e4b5593ec6151c7109a06",
-        "m_FXSettings": "!bp_2af34bcf613b48818d95394007e14e56",
+        "m_Ability": "!bp_ae2ca6f5827949d89c87c62ed21ec2e2",
+        "m_FXSettings": "!bp_effe16819ac3426cbedaba9337e95ead",
         "OnHitOverrideType": "None",
         "m_OnHitActions": null,
         "AP": 3
@@ -212,7 +206,7 @@
     "m_AttackOfOpportunityAbility": null,
     "m_AttackOfOpportunityAbilityFXSettings": null,
     "Category": "Heavy",
-    "Family": "Laser",
+    "Family": "Melta",
     "Classification": "None",
     "m_HoldingType": "TwoHanded",
     "m_Range": "Ranged",

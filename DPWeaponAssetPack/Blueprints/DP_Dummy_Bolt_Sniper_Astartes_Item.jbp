@@ -21,7 +21,10 @@
       "WarhammerMaxDamage",
       "DodgePenetration",
       "WarhammerPenetration",
-      "m_VisualParameters.m_WeaponAnimationStyle"
+      "m_VisualParameters.m_WeaponAnimationStyle",
+      "m_Icon",
+      "WeaponAbilities.Ability2.m_FXSettings",
+      "WeaponAbilities.Ability2.m_Ability"
     ],
     "Components": [
       {
@@ -95,7 +98,10 @@
       "m_OwnerString": "",
       "m_OwnerPropertyPath": "",
       "m_JsonPath": "",
-      "Shared": null
+      "Shared": {
+        "assetguid": "7e4d15d8c9f54d14c8621ba099ec3931",
+        "stringkey": "dbe8f123-f327-41a7-bdf7-43b987e209a5"
+      }
     },
     "m_NonIdentifiedNameText": {
       "m_Key": "",

@@ -1,33 +1,20 @@
 {
-  "AssetId": "376e974a0587492ab96c2070572a207c",
+  "AssetId": "a2ad63baddef46d0a806b9ce555e10b5",
   "Data": {
     "$type": "c00f723cccf2d314198c42a572c631fd, BlueprintItemWeapon",
-    "PrototypeLink": "7d145260c96243869af97d0b300d420a",
+    "PrototypeLink": "cb1d378f478e409f9b4ade82d2788f6c",
     "m_Overrides": [
-      "Author",
-      "$AddFactToEquipmentWielder$d2d55ea5-2690-4b9d-b0fe-caeefb38bb78",
       "$AddFactToEquipmentWielder$0153c714-8d91-4714-8342-e5a28e4f6816",
-      "$EquipmentRestrictionHasFacts$eda6d7dc-a9a2-4957-b762-761bf05b0303",
+      "$EquipmentRestrictionHasFacts$ecd0dcbb-de6c-4981-a366-b94d10f7946c",
+      "$AddStringToFactName$d39b1fd3-750e-482d-856f-b518293d1fd0",
       "$AdditionalDescriptionComponent$373254fb-b191-4c4c-8db5-99c01eea2585",
-      "$AddStringToFactDescription$da4acd36-8f1f-4c7f-8361-4db7ac944dde",
-      "m_DisplayName",
-      "m_Description",
       "m_Icon",
-      "m_VisualParameters.m_WeaponModel",
-      "Comment"
+      "Author",
+      "Comment",
+      "m_DisplayName",
+      "m_Description"
     ],
     "Components": [
-      {
-        "$type": "65221a9a6133bd0408b019b86642d97e, AddFactToEquipmentWielder",
-        "name": "$AddFactToEquipmentWielder$d2d55ea5-2690-4b9d-b0fe-caeefb38bb78",
-        "m_Flags": 0,
-        "PrototypeLink": {
-          "guid": "",
-          "name": ""
-        },
-        "m_Overrides": [],
-        "m_Fact": "!bp_fd5c99b0b98543938875fa3c17294b71"
-      },
       {
         "$type": "65221a9a6133bd0408b019b86642d97e, AddFactToEquipmentWielder",
         "name": "$AddFactToEquipmentWielder$0153c714-8d91-4714-8342-e5a28e4f6816",
@@ -41,7 +28,7 @@
       },
       {
         "$type": "d7b23547716f4a949471625ff6c66fb2, EquipmentRestrictionHasFacts",
-        "name": "$EquipmentRestrictionHasFacts$eda6d7dc-a9a2-4957-b762-761bf05b0303",
+        "name": "$EquipmentRestrictionHasFacts$ecd0dcbb-de6c-4981-a366-b94d10f7946c",
         "m_Flags": 0,
         "PrototypeLink": {
           "guid": "",
@@ -55,6 +42,27 @@
         ],
         "m_Inverted": true,
         "All": false
+      },
+      {
+        "$type": "c8cf2b4638d44ca29565527b0d0b90c2, AddStringToFactName",
+        "name": "$AddStringToFactName$d39b1fd3-750e-482d-856f-b518293d1fd0",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_AdditionalString": {
+          "m_Key": "",
+          "m_OwnerString": "",
+          "m_OwnerPropertyPath": "",
+          "m_JsonPath": "",
+          "Shared": {
+            "assetguid": "5dd421a3bcbf68b469a055000a91f2a5",
+            "stringkey": "74310328-74fd-410b-8860-90805b208ce1"
+          }
+        },
+        "JunctionType": "BeforeFirstSquareBrackets"
       },
       {
         "$type": "3c5267edd045432ab5bd6dbe606d4da3, AdditionalDescriptionComponent",
@@ -75,33 +83,12 @@
             "stringkey": "9ffa3cdb-8975-47be-8465-0dbc8da9229d"
           }
         }
-      },
-      {
-        "$type": "2f54dfbdcdce4761bcfd711b2409c34b, AddStringToFactDescription",
-        "name": "$AddStringToFactDescription$da4acd36-8f1f-4c7f-8361-4db7ac944dde",
-        "m_Flags": 0,
-        "PrototypeLink": {
-          "guid": "",
-          "name": ""
-        },
-        "m_Overrides": [],
-        "m_AdditionalString": {
-          "m_Key": "",
-          "m_OwnerString": "",
-          "m_OwnerPropertyPath": "",
-          "m_JsonPath": "",
-          "Shared": {
-            "assetguid": "c8c0a9ab10581f84f8a247d4712fca40",
-            "stringkey": "630bcb12-aa05-44d5-8dd0-5728db9c2730"
-          }
-        },
-        "JunctionType": "AfterNewString"
       }
     ],
     "Author": "Unknown",
     "Comment": "",
     "m_DisplayName": {
-      "m_Key": "DP_Dummy_ForceSword_DisplayName",
+      "m_Key": "DP_Dummy_PowerSword_DisplayName",
       "m_OwnerString": "",
       "m_OwnerPropertyPath": "",
       "m_JsonPath": "",
@@ -115,7 +102,7 @@
       "Shared": null
     },
     "m_Icon": {
-      "guid": "b93f1e845492a644899d16da12339942",
+      "guid": "b14de2a0d0280bb42a2271a9179d83d9",
       "fileid": 21300000
     },
     "m_FlavorText": {
@@ -142,13 +129,13 @@
     "m_NotStackable": false,
     "m_Weight": 0.0,
     "m_Origin": "MeleeWeaponry",
-    "m_Rarity": "Common",
+    "m_Rarity": "Pattern",
     "m_Tag": "None",
     "m_IsNotable": false,
     "m_ProfitFactorCost": 0.0,
-    "m_CargoVolumePercent": 15,
-    "m_InventoryPutSound": "UI_INV_SharpSword_Put_Play",
-    "m_InventoryTakeSound": "UI_INV_SharpSword_Take_Play",
+    "m_CargoVolumePercent": 20,
+    "m_InventoryPutSound": "UI_INV_Power_Put_Play",
+    "m_InventoryTakeSound": "UI_INV_Power_Take_Play",
     "ToCargoAutomatically": false,
     "ItemLevel": 0,
     "SpendCharges": false,
@@ -164,8 +151,8 @@
       "m_SpecialAnimation": "None",
       "m_BurstAnimationDelay": 0.0,
       "m_WeaponModel": {
-        "guid": "eeeb37df4dbdc5645971fe52bcbce43c",
-        "fileid": 1571794925272509531
+        "guid": "a04b8905febfd8849a05c61468733f7a",
+        "fileid": 5606319538288787730
       },
       "m_WeaponBeltModelOverride": null,
       "m_WeaponSheathModelOverride": null,
@@ -176,7 +163,7 @@
         "Group": "WeaponSize"
       },
       "m_SoundTypeSwitch": {
-        "Value": "Force",
+        "Value": "Power",
         "Group": "ProjectileType"
       },
       "m_MuffledTypeSwitch": {
@@ -184,12 +171,12 @@
         "Group": ""
       },
       "m_MissSoundType": "None",
-      "m_EquipSound": "Foley_WP_M_Force_Equip_Play",
-      "m_UnequipSound": "Foley_WP_M_Force_Remove_Play",
+      "m_EquipSound": "Foley_WP_M_PowerSword_Equip_Play",
+      "m_UnequipSound": "Foley_WP_M_PowerSword_Remove_Play",
       "m_OutOfAmmoSound": "",
-      "m_InventoryEquipSound": "UI_INV_SharpSword_Equip_Play",
-      "m_InventoryPutSound": "UI_INV_SharpSword_Put_Play",
-      "m_InventoryTakeSound": "UI_INV_SharpSword_Take_Play"
+      "m_InventoryEquipSound": "UI_INV_Power_Equip_Play",
+      "m_InventoryPutSound": "UI_INV_Power_Put_Play",
+      "m_InventoryTakeSound": "UI_INV_Power_Take_Play"
     },
     "m_OnHitActions": null,
     "AbilityContainer": {
@@ -197,7 +184,7 @@
         "Type": "SingleShot",
         "Mode": "Default",
         "m_Ability": "!bp_9dec1bdade284190b0977f5f70d26d3e",
-        "m_FXSettings": "!bp_02a6e061e3464785a0ed3d3f4e7ff41a",
+        "m_FXSettings": "!bp_1bc92b9832fe402caa887d8c5d990cb4",
         "OnHitOverrideType": "None",
         "m_OnHitActions": null,
         "AP": 1
@@ -206,19 +193,19 @@
         "Type": "AOE",
         "Mode": "Default",
         "m_Ability": "!bp_bac8a9c632934bec87c72fece5831673",
-        "m_FXSettings": "!bp_afab945f59b349268fca5f44e81c06ab",
+        "m_FXSettings": "!bp_1bc92b9832fe402caa887d8c5d990cb4",
         "OnHitOverrideType": "None",
         "m_OnHitActions": null,
         "AP": 2
       },
       "Ability3": {
-        "Type": "Custom",
+        "Type": "None",
         "Mode": "Default",
-        "m_Ability": "!bp_8f63a3008a614bc085b6fb56443d3f92",
-        "m_FXSettings": "!bp_02a6e061e3464785a0ed3d3f4e7ff41a",
+        "m_Ability": null,
+        "m_FXSettings": null,
         "OnHitOverrideType": "None",
         "m_OnHitActions": null,
-        "AP": 2
+        "AP": 0
       },
       "Ability4": {
         "Type": "None",
@@ -240,9 +227,9 @@
       }
     },
     "m_AttackOfOpportunityAbility": "!bp_9dec1bdade284190b0977f5f70d26d3e",
-    "m_AttackOfOpportunityAbilityFXSettings": "!bp_02a6e061e3464785a0ed3d3f4e7ff41a",
+    "m_AttackOfOpportunityAbilityFXSettings": "!bp_1bc92b9832fe402caa887d8c5d990cb4",
     "Category": "Melee",
-    "Family": "Force",
+    "Family": "Power",
     "Classification": "Sword",
     "m_HoldingType": "OneHanded",
     "m_Range": "Melee",
@@ -270,9 +257,9 @@
       "Shared": null
     },
     "IsTwoHanded": false,
-    "WarhammerDamage": 7,
-    "WarhammerMaxDamage": 11,
-    "WarhammerPenetration": 25,
+    "WarhammerDamage": 14,
+    "WarhammerMaxDamage": 24,
+    "WarhammerPenetration": 30,
     "DodgePenetration": 0,
     "AdditionalHitChance": 0,
     "WarhammerRecoil": 0,
@@ -280,10 +267,10 @@
     "WarhammerMaxAmmo": -1,
     "RateOfFire": 0,
     "m_Enchantments": [
-      "!bp_be03a9726a8a4b6991c0e76eba1301d7"
+      "!bp_800d7bc0c93b46cea5716353cea78748"
     ],
     "m_DamageType": {
-      "Type": "Energy"
+      "Type": "Power"
     },
     "m_IsNatural": false,
     "m_DamageStatBonusFactor": "One"

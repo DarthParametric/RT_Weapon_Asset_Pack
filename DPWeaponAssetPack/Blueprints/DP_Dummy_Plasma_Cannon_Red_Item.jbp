@@ -10,7 +10,14 @@
       "$EquipmentRestrictionHasFacts$c122edc0-1614-472c-8160-8257d5f536c7",
       "$EquipmentRestrictionStat$e44133fa-d538-47ea-b8ec-fcbaff2accb6",
       "$EquipmentRestrictionHasFacts$78882ab2-1160-4515-a2a7-3d0441d70c5a",
-      "m_VisualParameters.m_WeaponModel"
+      "m_VisualParameters.m_WeaponModel",
+      "m_Icon",
+      "WeaponAbilities.Ability1.m_Ability",
+      "WeaponAbilities.Ability1.m_FXSettings",
+      "WeaponAbilities.Ability2.m_Ability",
+      "WeaponAbilities.Ability2.m_FXSettings",
+      "Comment",
+      "m_Description"
     ],
     "Components": [
       {
@@ -168,7 +175,7 @@
         "Type": "AOE",
         "Mode": "Any",
         "m_Ability": "!bp_ae2ca6f5827949d89c87c62ed21ec2e2",
-        "m_FXSettings": "!bp_b8ab5cbae1a9467aaf82676d9c9ff31f",
+        "m_FXSettings": "!bp_effe16819ac3426cbedaba9337e95ead",
         "OnHitOverrideType": "None",
         "m_OnHitActions": null,
         "AP": 3

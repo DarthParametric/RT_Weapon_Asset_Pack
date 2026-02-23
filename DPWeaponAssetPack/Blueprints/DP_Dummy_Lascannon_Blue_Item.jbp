@@ -1,24 +1,19 @@
 {
-  "AssetId": "5aec63a3c36d4059838b3419d32ef565",
+  "AssetId": "6feb09acb59d4c03aeb8970c7cb49a8f",
   "Data": {
     "$type": "c00f723cccf2d314198c42a572c631fd, BlueprintItemWeapon",
-    "PrototypeLink": "3ef5c9b1be5c44ef900d06f78ef1c641",
+    "PrototypeLink": "5aec63a3c36d4059838b3419d32ef565",
     "m_Overrides": [
-      "Author",
       "m_FlavorText",
       "$EquipmentRestrictionHasFacts$c122edc0-1614-472c-8160-8257d5f536c7",
       "$EquipmentRestrictionStat$e44133fa-d538-47ea-b8ec-fcbaff2accb6",
       "$EquipmentRestrictionHasFacts$78882ab2-1160-4515-a2a7-3d0441d70c5a",
-      "m_DisplayName",
-      "m_Description",
-      "m_VisualParameters.m_WeaponModel",
-      "Family",
-      "Classification",
       "m_Icon",
-      "WeaponAbilities.Ability1.m_FXSettings",
-      "WeaponAbilities.Ability2.m_Ability",
-      "WeaponAbilities.Ability2.m_FXSettings",
-      "Comment"
+      "m_VisualParameters.m_WeaponModel",
+      "Author",
+      "Comment",
+      "m_DisplayName",
+      "m_Description"
     ],
     "Components": [
       {
@@ -85,7 +80,7 @@
       "Shared": null
     },
     "m_Icon": {
-      "guid": "b806d16008f6b8946b5ac603a1bc8d95",
+      "guid": "f98a1e1940871ee458fa4e5df2e09659",
       "fileid": 21300000
     },
     "m_FlavorText": {
@@ -134,8 +129,8 @@
       "m_SpecialAnimation": "None",
       "m_BurstAnimationDelay": 0.0,
       "m_WeaponModel": {
-        "guid": "64e535400ada0774bb6ecda6973daf5d",
-        "fileid": 4236359383697859554
+        "guid": "3e9350bffb579ac48aa6d3f69c7e452a",
+        "fileid": 1773395851976953030
       },
       "m_WeaponBeltModelOverride": null,
       "m_WeaponSheathModelOverride": null,

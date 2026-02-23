@@ -1,20 +1,18 @@
 {
-  "AssetId": "376e974a0587492ab96c2070572a207c",
+  "AssetId": "81e8d656952b4d9280c9ea68f7ce5d32",
   "Data": {
     "$type": "c00f723cccf2d314198c42a572c631fd, BlueprintItemWeapon",
-    "PrototypeLink": "7d145260c96243869af97d0b300d420a",
+    "PrototypeLink": "376e974a0587492ab96c2070572a207c",
     "m_Overrides": [
-      "Author",
       "$AddFactToEquipmentWielder$d2d55ea5-2690-4b9d-b0fe-caeefb38bb78",
       "$AddFactToEquipmentWielder$0153c714-8d91-4714-8342-e5a28e4f6816",
       "$EquipmentRestrictionHasFacts$eda6d7dc-a9a2-4957-b762-761bf05b0303",
       "$AdditionalDescriptionComponent$373254fb-b191-4c4c-8db5-99c01eea2585",
       "$AddStringToFactDescription$da4acd36-8f1f-4c7f-8361-4db7ac944dde",
-      "m_DisplayName",
-      "m_Description",
       "m_Icon",
-      "m_VisualParameters.m_WeaponModel",
-      "Comment"
+      "Comment",
+      "m_DisplayName",
+      "Author"
     ],
     "Components": [
       {
@@ -115,7 +113,7 @@
       "Shared": null
     },
     "m_Icon": {
-      "guid": "b93f1e845492a644899d16da12339942",
+      "guid": "4f2b8ea0551907742ab18ed2911858aa",
       "fileid": 21300000
     },
     "m_FlavorText": {

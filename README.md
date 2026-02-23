@@ -1,5 +1,5 @@
 # Weapon Asset Pack
-A mod for Owlcat's Rogue Trader cRPG. Provides a collection of weapon prefabs that can be externally referenced by 3rd party RT mods.
+A resource mod for Owlcat's Rogue Trader cRPG. Provides a collection of custom weapon prefabs that can be externally referenced by 3rd party RT mods.
 
 <p align="center"><img src="Images/Splash.jpg?raw=true" width="600" height="250"/></p>
 
@@ -59,7 +59,7 @@ If you are manually editing blueprints rather than using the template, refer to 
 While not strictly necessary, it is suggested that you add the asset pack's ID (DPWeaponAssetPack) to your mod's dependency list. This will ensure that ModFinder will flag it as required when users install your mod.
 
 ## Known Issues
-None at this time.
+There are numerous issues with hand positioning and (excessive) rotation across multiple animations and weapon types. This is a vanilla issue. In practice you'll never see it due to the isometric camera position. But it makes taking close-up screenshots _really_ annoying.
 
 ## Acknowledgements
 Many thanks to the modders on the Owlcat Discord, but particularly Kurufinve, microsoftenator2022, and ADDB for helping to coach me through my ineptitude in order to get the mod working. Thanks to thehambeard for the port of Cinematic Unity Explorer and troubleshooting issues with the dollroom in my attempts to get decent screenshots.

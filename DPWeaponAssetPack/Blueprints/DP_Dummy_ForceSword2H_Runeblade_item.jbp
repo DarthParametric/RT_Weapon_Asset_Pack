@@ -19,7 +19,9 @@
       "m_AttackOfOpportunityAbility",
       "m_AttackOfOpportunityAbilityFXSettings",
       "m_HoldingType",
-      "m_Rarity"
+      "m_Rarity",
+      "Comment",
+      "m_FlavorText"
     ],
     "Components": [
       {
@@ -110,7 +112,10 @@
       "m_OwnerString": "",
       "m_OwnerPropertyPath": "",
       "m_JsonPath": "",
-      "Shared": null
+      "Shared": {
+        "assetguid": "d7db168009b22784aad38be60d928753",
+        "stringkey": ""
+      }
     },
     "m_Description": {
       "m_Key": "",
@@ -274,7 +279,7 @@
       "m_JsonPath": "",
       "Shared": null
     },
-    "IsTwoHanded": true,
+    "IsTwoHanded": false,
     "WarhammerDamage": 7,
     "WarhammerMaxDamage": 11,
     "WarhammerPenetration": 25,

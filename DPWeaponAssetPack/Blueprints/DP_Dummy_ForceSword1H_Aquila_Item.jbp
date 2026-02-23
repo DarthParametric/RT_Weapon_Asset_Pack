@@ -13,7 +13,8 @@
       "m_DisplayName",
       "m_Description",
       "m_Icon",
-      "m_VisualParameters.m_WeaponModel"
+      "m_VisualParameters.m_WeaponModel",
+      "Comment"
     ],
     "Components": [
       {
@@ -100,7 +101,7 @@
     "Author": "Unknown",
     "Comment": "",
     "m_DisplayName": {
-      "m_Key": "DP_Dummy_ForceSword2_DisplayName",
+      "m_Key": "DP_Dummy_ForceSword_DisplayName",
       "m_OwnerString": "",
       "m_OwnerPropertyPath": "",
       "m_JsonPath": "",

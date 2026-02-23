@@ -12,7 +12,11 @@
       "m_DisplayName",
       "m_Description",
       "m_FlavorText",
-      "m_VisualParameters.m_WeaponModel"
+      "m_VisualParameters.m_WeaponModel",
+      "m_Icon",
+      "Comment",
+      "m_NonIdentifiedNameText",
+      "m_NonIdentifiedDescriptionText"
     ],
     "Components": [
       {
