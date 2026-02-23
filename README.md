@@ -46,7 +46,7 @@ Ensure you have the mod template prepared ([refer to the initial setup guide](ht
 
 Download a copy of the asset pack's mod folder from the [releases section](https://github.com/DarthParametric/DPWeaponAssetPack/releases/latest) and extract it to `WhRtModTemplate\Assets\Modifications\` alongside your existing mod project/s.
 
-Download the edited copies of the [ExtractBlueprintDirectReferences.cs](Scripts/ExtractBlueprintDirectReferences.cs) and [PrepareBundles.cs](Scripts/PrepareBundles.cs) template scripts. Place them into the template folder's `WhRtModTemplate\Assets\Editor\Build\Tasks\` folder, overwriting the originals when asked.
+Download the edited copy of the [ExtractBlueprintDirectReferences.cs](Scripts/ExtractBlueprintDirectReferences.cs) template script. Place it into the template folder's `WhRtModTemplate\Assets\Editor\Build\Tasks\` folder, overwriting the original when asked.
 
 Create your own mod project, if you haven't already. Create a new weapon blueprint and under the `m_VisualParameters` section, click the browse button next to the `m_WeaponModel` slot to choose the appropriate weapon prefab from the asset pack. You can also do the same for icons. Once the blueprint has been edited to your requirements, add it to your mod's Blueprint folder. 
 
