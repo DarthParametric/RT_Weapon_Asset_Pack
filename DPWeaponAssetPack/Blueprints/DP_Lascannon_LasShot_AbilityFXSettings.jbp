@@ -1,0 +1,44 @@
+{
+  "AssetId": "78e14970df814b71b714f9bd82764abc",
+  "Data": {
+    "$type": "bb62eb389c744c4490b1146890d7e2e4, BlueprintAbilityFXSettings",
+    "PrototypeLink": "2af34bcf613b48818d95394007e14e56",
+    "m_Overrides": [
+      "Author",
+      "Comment",
+      "m_VisualFXSettings",
+      "m_SoundFXSettings",
+      "m_ActionLink",
+      "m_OffHandActionLink",
+      "m_CornerActionLink",
+      "m_OffHandCornerActionLink",
+      "m_ShouldOffsetTargetRelativePosition"
+    ],
+    "Components": [],
+    "Author": "Unknown",
+    "Comment": "",
+    "m_VisualFXSettings": "!bp_601e1c49281442c681b3fdb6ed929057",
+    "m_SoundFXSettings": "!bp_e30d5723a6e44f4b9e5d674a2acc48c6",
+    "m_ActionLink": {
+      "AssetId": ""
+    },
+    "m_OffHandActionLink": {
+      "AssetId": ""
+    },
+    "m_CornerActionLink": {
+      "AssetId": ""
+    },
+    "m_OffHandCornerActionLink": {
+      "AssetId": ""
+    },
+    "m_ShouldOffsetTargetRelativePosition": false,
+    "m_OffsetTargetPosition": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

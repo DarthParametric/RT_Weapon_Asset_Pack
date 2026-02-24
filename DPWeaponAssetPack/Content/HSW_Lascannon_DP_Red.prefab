@@ -359,7 +359,7 @@ MonoBehaviour:
     guid: 502467bbbcc0471285a4ab6936a285d8
   particleMap: {fileID: 8143748830866697685}
   Data:
-    Name: 
+    Name: Locator_WeaponMuzzleFX_00
     Aliases: []
     ParticleSize: 1
     LocalOffset: {x: 0, y: 0, z: 0}

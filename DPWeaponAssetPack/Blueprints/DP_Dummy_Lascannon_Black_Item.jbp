@@ -162,7 +162,7 @@
         "Type": "AOE",
         "Mode": "Default",
         "m_Ability": "!bp_a489b6d823ef4b86b431aa1d42e385c7",
-        "m_FXSettings": "!bp_2af34bcf613b48818d95394007e14e56",
+        "m_FXSettings": "!bp_78e14970df814b71b714f9bd82764abc",
         "OnHitOverrideType": "None",
         "m_OnHitActions": null,
         "AP": 3
@@ -171,7 +171,7 @@
         "Type": "AOE",
         "Mode": "Any",
         "m_Ability": "!bp_0bc1f945b05e4b5593ec6151c7109a06",
-        "m_FXSettings": "!bp_2af34bcf613b48818d95394007e14e56",
+        "m_FXSettings": "!bp_78e14970df814b71b714f9bd82764abc",
         "OnHitOverrideType": "None",
         "m_OnHitActions": null,
         "AP": 3
