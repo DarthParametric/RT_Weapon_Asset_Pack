@@ -13,7 +13,8 @@
       "Author",
       "Comment",
       "m_DisplayName",
-      "m_Description"
+      "m_Description",
+      "m_VisualParameters.m_WeaponModel"
     ],
     "Components": [
       {
@@ -163,8 +164,8 @@
       "m_SpecialAnimation": "None",
       "m_BurstAnimationDelay": 0.0,
       "m_WeaponModel": {
-        "guid": "3b52c52a6504d69428dd6eeb7d7b644f",
-        "fileid": 2303428077302067451
+        "guid": "d4d5117f887b32e43b39f34a00b6ab37",
+        "fileid": 5405933413374034542
       },
       "m_WeaponBeltModelOverride": null,
       "m_WeaponSheathModelOverride": null,

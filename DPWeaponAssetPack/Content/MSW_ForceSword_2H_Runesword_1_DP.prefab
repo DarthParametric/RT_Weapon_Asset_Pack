@@ -238,7 +238,7 @@ GameObject:
   - component: {fileID: 1340630434977656109}
   - component: {fileID: 8979182209934389028}
   m_Layer: 0
-  m_Name: MSW_ForceSword_2H_Runesword_DP
+  m_Name: MSW_ForceSword_2H_Runesword_1_DP
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

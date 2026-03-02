@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Materials:
   - {fileID: 2100000, guid: 9637fb68393053745b1527cc1149845d, type: 2}
+  - {fileID: 2100000, guid: 2f6ad9dcabf3933458cc1460adc476ad, type: 2}
   - {fileID: 2100000, guid: 48b257ca651c0b14a86b94dfd94a215c, type: 2}
   - {fileID: 2100000, guid: a6299ab7e36f6a640acd4ef0598f043e, type: 2}
   - {fileID: 2100000, guid: 5980a409725abf54fa0bfa470ffb2676, type: 2}
@@ -26,4 +27,5 @@ MonoBehaviour:
   - {fileID: 2100000, guid: 168129e5459c56f4aafb02b8474c7c3a, type: 2}
   - {fileID: 2100000, guid: 23e2f78cedbb9eb4198ca4420566db15, type: 2}
   - {fileID: 2100000, guid: a0408e6705305144f97957425f1b8eaf, type: 2}
+  - {fileID: 2100000, guid: a8f3b1168ed1afa45927040e4201cbda, type: 2}
   - {fileID: 2100000, guid: db57c9c3a5861bf4e92e7ab39c9a89c0, type: 2}

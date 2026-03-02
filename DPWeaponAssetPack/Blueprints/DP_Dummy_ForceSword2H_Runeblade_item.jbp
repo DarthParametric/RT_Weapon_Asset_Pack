@@ -112,10 +112,7 @@
       "m_OwnerString": "",
       "m_OwnerPropertyPath": "",
       "m_JsonPath": "",
-      "Shared": {
-        "assetguid": "d7db168009b22784aad38be60d928753",
-        "stringkey": ""
-      }
+      "Shared": null
     },
     "m_Description": {
       "m_Key": "",

@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: MAT_MSW_Power_1H_Darktide_1
+  m_Name: MAT_MSW_Power_1H_Darktide
   m_Shader: {fileID: 4800000, guid: 222b820ce1ddd0649b7c8cfcf101ee4f, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0

@@ -294,7 +294,7 @@ GameObject:
   - component: {fileID: 7282910944293202480}
   - component: {fileID: 1669957570462362575}
   m_Layer: 0
-  m_Name: MSW_PowerSword_1H_Darktide_DP_A
+  m_Name: MSW_PowerSword_1H_Darktide_DP
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

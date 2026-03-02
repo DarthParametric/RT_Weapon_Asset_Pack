@@ -17,6 +17,9 @@
 		},
 		"DP_Dummy_PowerSword_DisplayName": {
 			"Text": "Dummy Power Sword BP - Do not use",
+		},
+		"DP_Dummy_Autocannon_DisplayName": {
+			"Text": "Dummy Autocannon BP - Do not use",
 		}
 	}
 }
