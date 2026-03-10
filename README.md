@@ -60,4 +60,6 @@ While not strictly necessary, it is suggested that you add the asset pack's ID (
 There are numerous issues with hand positioning and (excessive) wrist rotation across multiple animations and weapon types. This is a vanilla issue. In practice you'll never see it due to the isometric camera position. But it makes taking close-up screenshots _really_ annoying.
 
 ## Acknowledgements
+Some of the sword designs were adapted from concept art by [mollicart_](https://www.instagram.com/p/DVMPIoxjCHo/), commissioned by OdinThePine for this project.
+
 Many thanks to the modders on the Owlcat Discord, but particularly Kurufinve, microsoftenator2022, and ADDB for helping to coach me through my ineptitude in order to get the mod working. Thanks to thehambeard for the port of Cinematic Unity Explorer and troubleshooting issues with the dollroom in my attempts to get decent screenshots.
