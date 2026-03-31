@@ -1,89 +1,50 @@
 {
-  "AssetId": "5aec63a3c36d4059838b3419d32ef565",
+  "AssetId": "deb2f195c70f4af4a3d3716816ccd1e6",
   "Data": {
     "$type": "c00f723cccf2d314198c42a572c631fd, BlueprintItemWeapon",
-    "PrototypeLink": "3ef5c9b1be5c44ef900d06f78ef1c641",
+    "PrototypeLink": "471b335004eb4932961acceaba40f9bf",
     "m_Overrides": [
-      "Author",
-      "m_FlavorText",
-      "$EquipmentRestrictionHasFacts$c122edc0-1614-472c-8160-8257d5f536c7",
-      "$EquipmentRestrictionStat$e44133fa-d538-47ea-b8ec-fcbaff2accb6",
-      "$EquipmentRestrictionHasFacts$78882ab2-1160-4515-a2a7-3d0441d70c5a",
-      "m_DisplayName",
-      "m_Description",
-      "m_VisualParameters.m_WeaponModel",
-      "Family",
-      "Classification",
-      "m_Icon",
-      "WeaponAbilities.Ability1.m_FXSettings",
-      "WeaponAbilities.Ability2.m_Ability",
-      "WeaponAbilities.Ability2.m_FXSettings",
-      "Comment",
-      "WeaponAbilities.Ability1.m_Ability",
-      "WeaponAbilities.Ability2.Type",
-      "WeaponAbilities.Ability2.Mode",
-      "m_Range",
-      "m_Enchantments",
-      "WarhammerMaxDistance",
-      "WarhammerMaxAmmo",
-      "WarhammerRecoil",
-      "WarhammerPenetration",
-      "WarhammerMaxDamage",
-      "WarhammerDamage",
-      "RateOfFire"
+      "$AddFactToEquipmentWielder$0153c714-8d91-4714-8342-e5a28e4f6816",
+      "$AdditionalDescriptionComponent$e6910e2c-92f2-49cc-a5f0-d2578ebddc96",
+      "m_Icon"
     ],
     "Components": [
       {
-        "$type": "d7b23547716f4a949471625ff6c66fb2, EquipmentRestrictionHasFacts",
-        "name": "$EquipmentRestrictionHasFacts$c122edc0-1614-472c-8160-8257d5f536c7",
+        "$type": "65221a9a6133bd0408b019b86642d97e, AddFactToEquipmentWielder",
+        "name": "$AddFactToEquipmentWielder$0153c714-8d91-4714-8342-e5a28e4f6816",
         "m_Flags": 0,
         "PrototypeLink": {
-          "guid": "",
-          "name": ""
+          "guid": "12f6bf208b4a4f78958f65627a57422e",
+          "name": "$AddFactToEquipmentWielder$0153c714-8d91-4714-8342-e5a28e4f6816"
         },
         "m_Overrides": [],
-        "m_Facts": [
-          "!bp_2818d76d82b341adb2b792ed52f4c203"
-        ],
-        "m_Inverted": false,
-        "All": true
+        "m_Fact": "!bp_53c19a9468d24539863989b3be9ed1f5"
       },
       {
-        "$type": "6dfdda28c94860241a112b404538e2a7, EquipmentRestrictionStat",
-        "name": "$EquipmentRestrictionStat$e44133fa-d538-47ea-b8ec-fcbaff2accb6",
+        "$type": "3c5267edd045432ab5bd6dbe606d4da3, AdditionalDescriptionComponent",
+        "name": "$AdditionalDescriptionComponent$e6910e2c-92f2-49cc-a5f0-d2578ebddc96",
         "m_Flags": 0,
         "PrototypeLink": {
-          "guid": "",
-          "name": ""
+          "guid": "12f6bf208b4a4f78958f65627a57422e",
+          "name": "$AdditionalDescriptionComponent$e6910e2c-92f2-49cc-a5f0-d2578ebddc96"
         },
         "m_Overrides": [],
-        "Stat": "WarhammerStrength",
-        "MinValue": 55,
-        "m_ChangeRestrictionStatIfHasFact": true,
-        "m_Fact": "!bp_26376b596c474d67849613617ced7b04",
-        "m_SubtractionValue": 25
-      },
-      {
-        "$type": "d7b23547716f4a949471625ff6c66fb2, EquipmentRestrictionHasFacts",
-        "name": "$EquipmentRestrictionHasFacts$78882ab2-1160-4515-a2a7-3d0441d70c5a",
-        "m_Flags": 0,
-        "PrototypeLink": {
-          "guid": "",
-          "name": ""
-        },
-        "m_Overrides": [],
-        "m_Facts": [
-          "!bp_c7a53b43ac5f4f11a1aef612dd3f4f71",
-          "!bp_590cb5c394ee4b5eb213121c96063dec"
-        ],
-        "m_Inverted": true,
-        "All": false
+        "AdditionalDescription": {
+          "m_Key": "",
+          "m_OwnerString": "",
+          "m_OwnerPropertyPath": "",
+          "m_JsonPath": "",
+          "Shared": {
+            "assetguid": "162ea8c0a03045446a4cb32b44ddb9d8",
+            "stringkey": "9ffa3cdb-8975-47be-8465-0dbc8da9229d"
+          }
+        }
       }
     ],
     "Author": "Unknown",
     "Comment": "",
     "m_DisplayName": {
-      "m_Key": "DP_Dummy_Lascannon_DisplayName",
+      "m_Key": "DP_Dummy_ExoticGreatsword_DisplayName",
       "m_OwnerString": "",
       "m_OwnerPropertyPath": "",
       "m_JsonPath": "",
@@ -97,7 +58,7 @@
       "Shared": null
     },
     "m_Icon": {
-      "guid": "b806d16008f6b8946b5ac603a1bc8d95",
+      "guid": "300f17ceac2b674438405f326e739505",
       "fileid": 21300000
     },
     "m_FlavorText": {
@@ -123,14 +84,14 @@
     },
     "m_NotStackable": false,
     "m_Weight": 0.0,
-    "m_Origin": "RangedWeaponry",
-    "m_Rarity": "Common",
+    "m_Origin": "Xeno",
+    "m_Rarity": "Pattern",
     "m_Tag": "None",
     "m_IsNotable": false,
     "m_ProfitFactorCost": 0.0,
     "m_CargoVolumePercent": 15,
-    "m_InventoryPutSound": "UI_INV_Rifle_Put_Play",
-    "m_InventoryTakeSound": "UI_INV_Rifle_Take_Play",
+    "m_InventoryPutSound": "UI_INV_SharpSword_Put_Play",
+    "m_InventoryTakeSound": "UI_INV_SharpSword_Take_Play",
     "ToCargoAutomatically": false,
     "ItemLevel": 0,
     "SpendCharges": false,
@@ -142,12 +103,12 @@
     "m_EquipmentEntityAlternatives": [],
     "m_ForcedRampColorPresetIndex": -1,
     "m_VisualParameters": {
-      "m_WeaponAnimationStyle": "HeavyOnHip",
+      "m_WeaponAnimationStyle": "BrutalTwoHanded",
       "m_SpecialAnimation": "None",
       "m_BurstAnimationDelay": 0.0,
       "m_WeaponModel": {
-        "guid": "64e535400ada0774bb6ecda6973daf5d",
-        "fileid": 4236359383697859554
+        "guid": "d15e0765da9c7304c83a308aee0c1b50",
+        "fileid": 3397755414598271324
       },
       "m_WeaponBeltModelOverride": null,
       "m_WeaponSheathModelOverride": null,
@@ -158,7 +119,7 @@
         "Group": ""
       },
       "m_SoundTypeSwitch": {
-        "Value": "Plasma",
+        "Value": "Sharp",
         "Group": "ProjectileType"
       },
       "m_MuffledTypeSwitch": {
@@ -166,41 +127,41 @@
         "Group": ""
       },
       "m_MissSoundType": "None",
-      "m_EquipSound": "Foley_WP_R_2HAssault_EquipGeneric_Play",
-      "m_UnequipSound": "Foley_WP_R_2HAssault_UnEquipGeneric_Play",
+      "m_EquipSound": "Foley_WP_M_Sword_Equip_Play",
+      "m_UnequipSound": "Foley_WP_M_Sword_Remove_Play",
       "m_OutOfAmmoSound": "",
-      "m_InventoryEquipSound": "UI_INV_Rifle_Equip_Play",
-      "m_InventoryPutSound": "UI_INV_Rifle_Put_Play",
-      "m_InventoryTakeSound": "UI_INV_Rifle_Take_Play"
+      "m_InventoryEquipSound": "UI_INV_SharpSword_Equip_Play",
+      "m_InventoryPutSound": "UI_INV_SharpSword_Put_Play",
+      "m_InventoryTakeSound": "UI_INV_SharpSword_Take_Play"
     },
     "m_OnHitActions": null,
     "AbilityContainer": {
       "Ability1": {
-        "Type": "AOE",
+        "Type": "SingleShot",
         "Mode": "Default",
-        "m_Ability": "!bp_a489b6d823ef4b86b431aa1d42e385c7",
-        "m_FXSettings": "!bp_78e14970df814b71b714f9bd82764abc",
+        "m_Ability": "!bp_9dec1bdade284190b0977f5f70d26d3e",
+        "m_FXSettings": "!bp_e7be2fd14a994b97b4d4513f3e7e2b3b",
         "OnHitOverrideType": "None",
         "m_OnHitActions": null,
-        "AP": 3
+        "AP": 1
       },
       "Ability2": {
-        "Type": "Burst",
-        "Mode": "Any",
-        "m_Ability": "!bp_79c599233ec940f184f06741d1cc94fd",
-        "m_FXSettings": "!bp_78e14970df814b71b714f9bd82764abc",
+        "Type": "AOE",
+        "Mode": "Default",
+        "m_Ability": "!bp_163013a18e9c46419b2311454ad2b2c8",
+        "m_FXSettings": "!bp_e7be2fd14a994b97b4d4513f3e7e2b3b",
         "OnHitOverrideType": "None",
         "m_OnHitActions": null,
-        "AP": 3
+        "AP": 2
       },
       "Ability3": {
-        "Type": "Reload",
+        "Type": "None",
         "Mode": "Default",
-        "m_Ability": "!bp_98f4a31b68e446ad9c63411c7b349146",
+        "m_Ability": null,
         "m_FXSettings": null,
         "OnHitOverrideType": "None",
         "m_OnHitActions": null,
-        "AP": 4
+        "AP": 0
       },
       "Ability4": {
         "Type": "None",
@@ -221,14 +182,14 @@
         "AP": 0
       }
     },
-    "m_AttackOfOpportunityAbility": null,
-    "m_AttackOfOpportunityAbilityFXSettings": null,
-    "Category": "Heavy",
-    "Family": "Laser",
-    "Classification": "None",
+    "m_AttackOfOpportunityAbility": "!bp_9dec1bdade284190b0977f5f70d26d3e",
+    "m_AttackOfOpportunityAbilityFXSettings": "!bp_3f9a775831e04861afbfe9eaf8fe692b",
+    "Category": "Melee",
+    "Family": "Exotic",
+    "Classification": "Sword",
     "m_HoldingType": "TwoHanded",
-    "m_Range": "Ranged",
-    "m_Heaviness": "Heavy",
+    "m_Range": "Melee",
+    "m_Heaviness": "NotHeavy",
     "CanBeUsedInGame": true,
     "m_TypeNameText": {
       "m_Key": "",
@@ -252,21 +213,21 @@
       "Shared": null
     },
     "IsTwoHanded": true,
-    "WarhammerDamage": 21,
-    "WarhammerMaxDamage": 28,
-    "WarhammerPenetration": 60,
+    "WarhammerDamage": 16,
+    "WarhammerMaxDamage": 24,
+    "WarhammerPenetration": 35,
     "DodgePenetration": 0,
     "AdditionalHitChance": 0,
-    "WarhammerRecoil": 8,
-    "WarhammerMaxDistance": 15,
-    "WarhammerMaxAmmo": 6,
+    "WarhammerRecoil": 0,
+    "WarhammerMaxDistance": 1,
+    "WarhammerMaxAmmo": -1,
     "RateOfFire": 0,
     "m_Enchantments": [],
     "m_DamageType": {
-      "Type": "Energy"
+      "Type": "Rending"
     },
     "m_IsNatural": false,
-    "m_DamageStatBonusFactor": "One"
+    "m_DamageStatBonusFactor": "Two"
   },
   "Meta": {
     "ShadowDeleted": false

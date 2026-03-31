@@ -1,0 +1,87 @@
+{
+  "AssetId": "a75ef6696d2b4bba8c87436e0845ecd4",
+  "Data": {
+    "$type": "6370c9530f88b5c41bd101d35b8e4fd2, BlueprintProjectile",
+    "PrototypeLink": "075031e8f7604ecfa415e88361ec6157",
+    "m_Overrides": [
+      "Author",
+      "Comment",
+      "Speed",
+      "SpeedDelta",
+      "MinTime",
+      "View",
+      "CastFx",
+      "CastFxLifetime",
+      "LifetimeParticlesAfterHit",
+      "UseSourceBoneScale",
+      "AddRagdollImpulse",
+      "m_Trajectory",
+      "FollowTerrain",
+      "FreezeLaunchPosition",
+      "FreezeEndPosition",
+      "IgnoreGrid",
+      "ProjectileHit.FollowTarget",
+      "ProjectileHit.HitFx",
+      "ProjectileHit.HitSnapFx",
+      "ProjectileHit.MissFx",
+      "ProjectileHit.MissDecalFx",
+      "ProjectileHit.NoHitDecal",
+      "ProjectileHit.HitDecal",
+      "DamageHit.FollowTarget",
+      "DamageHit.HitLevel",
+      "DamageHit.MinorAdditionalHits",
+      "DamageHit.BillboardBlood",
+      "DamageHit.DirectionalBlood"
+    ],
+    "Components": [],
+    "Author": "Unknown",
+    "Comment": "",
+    "Speed": 300.0,
+    "SpeedDelta": 0.0,
+    "MinTime": 0.0,
+    "View": {
+      "AssetId": "b20ef085765293947ad64c28d6141393"
+    },
+    "CastFx": {
+      "AssetId": "b3b3d72998d30f24184b99f13b7f3192"
+    },
+    "CastFxLifetime": 1.0,
+    "LifetimeParticlesAfterHit": 15.0,
+    "ProjectileHit": {
+      "FollowTarget": false,
+      "HitFx": {
+        "AssetId": "8ba53596690cb4e449f492a86776a857"
+      },
+      "HitSnapFx": {
+        "AssetId": ""
+      },
+      "MissFx": {
+        "AssetId": "8ba53596690cb4e449f492a86776a857"
+      },
+      "MissDecalFx": {
+        "AssetId": ""
+      },
+      "NoHitDecal": false,
+      "HitDecal": {
+        "AssetId": "119ca840d4794b8408fc46abfdcca213"
+      }
+    },
+    "DamageHit": {
+      "FollowTarget": false,
+      "HitLevel": "Standard",
+      "MinorAdditionalHits": false,
+      "BillboardBlood": false,
+      "DirectionalBlood": true
+    },
+    "UseSourceBoneScale": false,
+    "AddRagdollImpulse": 1.5,
+    "m_Trajectory": "!bp_225f1e7eb7be91b469b1671e7e5784d8",
+    "FollowTerrain": false,
+    "FreezeLaunchPosition": false,
+    "FreezeEndPosition": false,
+    "IgnoreGrid": false
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

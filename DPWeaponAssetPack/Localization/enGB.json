@@ -9,6 +9,9 @@
 		"DP_Dummy_Plasma_Cannon_DisplayName": {
 			"Text": "Dummy Plasma Cannon BP - Do not use",
 		},
+		"DP_Dummy_Autocannon_DisplayName": {
+			"Text": "Dummy Autocannon BP - Do not use",
+		},
 		"DP_Dummy_ForceSword_DisplayName": {
 			"Text": "Dummy Force Sword BP - Do not use",
 		},
@@ -18,8 +21,8 @@
 		"DP_Dummy_PowerSword_DisplayName": {
 			"Text": "Dummy Power Sword BP - Do not use",
 		},
-		"DP_Dummy_Autocannon_DisplayName": {
-			"Text": "Dummy Autocannon BP - Do not use",
+		"DP_Dummy_ExoticGreatsword_DisplayName": {
+			"Text": "Dummy Exotic Greatsword BP - Do not use",
 		}
 	}
 }

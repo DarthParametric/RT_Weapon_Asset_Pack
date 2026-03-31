@@ -66,7 +66,7 @@ PrefabInstance:
     - target: {fileID: 3744962096162959202, guid: adff2b2898f7c3548b389b1f41f890b9,
         type: 3}
       propertyPath: m_Name
-      value: HSW_Plasma_Cannon_DP_Black Variant
+      value: HSW_Plasma_Cannon_DP_Black
       objectReference: {fileID: 0}
     - target: {fileID: 4734818316391495500, guid: adff2b2898f7c3548b389b1f41f890b9,
         type: 3}
