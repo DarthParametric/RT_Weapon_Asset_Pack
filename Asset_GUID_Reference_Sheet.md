@@ -2,6 +2,14 @@
 A list of all asset GUIDs/FileIds for use when manually editing blueprints. Refer to the Images folder for visual references.
 
 ## Melee Prefabs
+`MSW_ExoticSword_2H_Ghostglaive_DP`
+```
+      "m_WeaponModel": {
+        "guid": "d15e0765da9c7304c83a308aee0c1b50",
+        "fileid": 3397755414598271324
+      },
+```
+
 `MSW_ForceSword_1H_Aquila_DP`
 ```
       "m_WeaponModel": {
@@ -34,6 +42,14 @@ A list of all asset GUIDs/FileIds for use when manually editing blueprints. Refe
       },
 ```
 
+`MSW_PowerSword_1H_Angelic_DP`
+```
+      "m_WeaponModel": {
+        "guid": "3d863a7b51ee1c846a8b684731ead92c",
+        "fileid": 6813967417077958548
+      },
+```
+
 `MSW_PowerSword_1H_Darktide_DP_A`
 ```
       "m_WeaponModel": {
@@ -48,6 +64,14 @@ A list of all asset GUIDs/FileIds for use when manually editing blueprints. Refe
       "m_WeaponModel": {
         "guid": "c5b87a5b2dccf7d46a1890319700b5b9",
         "fileid": 731616150455201099
+      },
+```
+
+`HSW_Autocannon_DP_Green`
+```
+      "m_WeaponModel": {
+        "guid": "65b73c90138f5874681df69fb0740624",
+        "fileid": 3620838075832654830
       },
 ```
 
@@ -124,6 +148,14 @@ A list of all asset GUIDs/FileIds for use when manually editing blueprints. Refe
     },
 ```
 
+`ICO_HSW_Autocannon_Green`
+```
+    "m_Icon": {
+      "guid": "5f3839c9f315df34badfe7eb07187fd7",
+      "fileid": 21300000
+    },
+```
+
 `ICO_HSW_Lasannon_Black`
 ```
     "m_Icon": {
@@ -188,6 +220,22 @@ A list of all asset GUIDs/FileIds for use when manually editing blueprints. Refe
     },
 ```
 
+`ICO_MSW_Exotic_2H_Ghostglaive01`
+```
+    "m_Icon": {
+      "guid": "b9d75077ca8c7004eaebcbd5b0882f8f",
+      "fileid": 21300000
+    },
+```
+
+`ICO_MSW_Exotic_2H_Ghostglaive02`
+```
+    "m_Icon": {
+      "guid": "300f17ceac2b674438405f326e739505",
+      "fileid": 21300000
+    },
+```
+
 `ICO_MSW_Force_1H_Aquila01`
 ```
     "m_Icon": {
@@ -248,6 +296,22 @@ A list of all asset GUIDs/FileIds for use when manually editing blueprints. Refe
 ```
     "m_Icon": {
       "guid": "090041ed5d45e694bb1b8c51be9737cb",
+      "fileid": 21300000
+    },
+```
+
+`ICO_MSW_Power_1H_Angelic01`
+```
+    "m_Icon": {
+      "guid": "a75d84e0c9682eb458966615b74befeb",
+      "fileid": 21300000
+    },
+```
+
+`ICO_MSW_Power_1H_Angelic02`
+```
+    "m_Icon": {
+      "guid": "e2a37793795c22b4297c2c670e2e9eb3",
       "fileid": 21300000
     },
 ```
