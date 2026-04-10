@@ -14,7 +14,7 @@ This is an Owlmod, made using the Unity template supplied by Owlcat. In order to
 
 Use [ModFinder RT](https://www.nexusmods.com/warhammer40kroguetrader/mods/146) to install this mod automagically.
 
-Alternatively, to install the mod manually, first make sure you have run the game at least once. Download the mod from [Nexus](https://www.nexusmods.com/warhammer40kroguetrader/mods/???) and extract it into:
+Alternatively, to install the mod manually, first make sure you have run the game at least once. Download the mod from [Nexus](https://www.nexusmods.com/warhammer40kroguetrader/mods/428) and extract it into:
 
 `%userprofile%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Modifications\`
 
@@ -44,11 +44,13 @@ You can move individual mods from the ActiveModifications section to the Disable
 ### For Mod Authors:
 Ensure you have the mod template prepared ([refer to the initial setup guide](https://github.com/WittleWolfie/OwlcatModdingWiki/wiki/Initial-Setup-of-v1.5-Rogue-Trader-Template)) and that you have installed the template component of [MicroPatches](https://github.com/microsoftenator2022/MicroPatches/releases) (MicroPatches-Editor-Installer.exe).
 
-Download a copy of the asset pack's mod folder from the [releases section](https://github.com/DarthParametric/DPWeaponAssetPack/releases/latest) and extract it to `WhRtModTemplate\Assets\Modifications\` alongside your existing mod project/s.
+Download a copy of the asset pack's template folder from the [releases section](https://github.com/DarthParametric/DPWeaponAssetPack/releases/latest) and extract it to `WhRtModTemplate\Assets\Modifications\` alongside your existing mod project/s.
 
 Download the edited copy of the [ExtractBlueprintDirectReferences.cs](Scripts/ExtractBlueprintDirectReferences.cs) template script. Place it into the template's `WhRtModTemplate\Assets\Editor\Build\Tasks\` folder, overwriting the original when asked.
 
 Create your own mod project, if you haven't already. Create a new weapon blueprint and under the `m_VisualParameters` section, click the browse button next to the `m_WeaponModel` slot to choose the appropriate weapon prefab from the asset pack. You can also do the same for icons. Once the blueprint has been edited to your requirements, add it to your mod's Blueprint folder. 
+
+Install the enduser mod from Nexus or ModFinder in order to be able to test that your mod's asset references work correctly in-game.
 
 **N.B.:** Make sure you do ***not*** physically include any of the asset pack's content in your own mod folder! Your mod only requires blueprint references. Endusers will need to download the mod version of the asset pack separately. 
 
