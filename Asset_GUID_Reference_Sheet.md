@@ -67,11 +67,35 @@ A list of all asset GUIDs/FileIds for use when manually editing blueprints. Refe
       },
 ```
 
+`HSW_Autocannon_DP_Black`
+```
+      "m_WeaponModel": {
+        "guid": "2b945a259a5be0042acfc07f5f2950a6",
+        "fileid": 5450458181601961276
+      },
+```
+
+`HSW_Autocannon_DP_Blue`
+```
+      "m_WeaponModel": {
+        "guid": "1105ae7c6a6ef1c4eb814f1763c55c6a",
+        "fileid": 9031881956876632863
+      },
+```
+
 `HSW_Autocannon_DP_Green`
 ```
       "m_WeaponModel": {
         "guid": "65b73c90138f5874681df69fb0740624",
         "fileid": 3620838075832654830
+      },
+```
+
+`HSW_Autocannon_DP_Red`
+```
+      "m_WeaponModel": {
+        "guid": "f0db0dc8f42f17149b999fc741ae3483",
+        "fileid": 7207013746990897685
       },
 ```
 
@@ -148,10 +172,34 @@ A list of all asset GUIDs/FileIds for use when manually editing blueprints. Refe
     },
 ```
 
+`ICO_HSW_Autocannon_Black`
+```
+    "m_Icon": {
+      "guid": "fb573301ba8d0cb4bbe4fc6d14a774fb",
+      "fileid": 21300000
+    },
+```
+
+`ICO_HSW_Autocannon_Blue`
+```
+    "m_Icon": {
+      "guid": "17c29ef6023fb0e41871fd0043e01729",
+      "fileid": 21300000
+    },
+```
+
 `ICO_HSW_Autocannon_Green`
 ```
     "m_Icon": {
       "guid": "5f3839c9f315df34badfe7eb07187fd7",
+      "fileid": 21300000
+    },
+```
+
+`ICO_HSW_Autocannon_Red`
+```
+    "m_Icon": {
+      "guid": "63102699420fe86419e8af594c60d7fc",
       "fileid": 21300000
     },
 ```

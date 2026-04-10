@@ -13,12 +13,30 @@ MonoBehaviour:
   m_Name: BlueprintDirectReferences
   m_EditorClassIdentifier: 
   m_Entries:
+  - AssetId: fb573301ba8d0cb4bbe4fc6d14a774fb
+    FileId: 21300000
+    Asset: {fileID: 21300000, guid: fb573301ba8d0cb4bbe4fc6d14a774fb, type: 3}
+  - AssetId: 2b945a259a5be0042acfc07f5f2950a6
+    FileId: 5450458181601961276
+    Asset: {fileID: 5450458181601961276, guid: 2b945a259a5be0042acfc07f5f2950a6, type: 3}
+  - AssetId: 17c29ef6023fb0e41871fd0043e01729
+    FileId: 21300000
+    Asset: {fileID: 21300000, guid: 17c29ef6023fb0e41871fd0043e01729, type: 3}
+  - AssetId: 1105ae7c6a6ef1c4eb814f1763c55c6a
+    FileId: 9031881956876632863
+    Asset: {fileID: 9031881956876632863, guid: 1105ae7c6a6ef1c4eb814f1763c55c6a, type: 3}
   - AssetId: 5f3839c9f315df34badfe7eb07187fd7
     FileId: 21300000
     Asset: {fileID: 21300000, guid: 5f3839c9f315df34badfe7eb07187fd7, type: 3}
   - AssetId: 65b73c90138f5874681df69fb0740624
     FileId: 3620838075832654830
     Asset: {fileID: 3620838075832654830, guid: 65b73c90138f5874681df69fb0740624, type: 3}
+  - AssetId: 63102699420fe86419e8af594c60d7fc
+    FileId: 21300000
+    Asset: {fileID: 21300000, guid: 63102699420fe86419e8af594c60d7fc, type: 3}
+  - AssetId: f0db0dc8f42f17149b999fc741ae3483
+    FileId: 7207013746990897685
+    Asset: {fileID: 7207013746990897685, guid: f0db0dc8f42f17149b999fc741ae3483, type: 3}
   - AssetId: 6ae231e5f72152946b7d6d3f7cfec4b5
     FileId: 21300000
     Asset: {fileID: 21300000, guid: 6ae231e5f72152946b7d6d3f7cfec4b5, type: 3}
