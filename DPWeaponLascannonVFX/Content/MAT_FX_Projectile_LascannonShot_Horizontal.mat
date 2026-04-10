@@ -11,9 +11,7 @@ Material:
   m_Shader: {fileID: 4800000, guid: 9fbe281ddb5f9824eb5d54ec51d84bc9, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
-  m_ValidKeywords:
-  - _ALPHAPREMULTIPLY_ON
-  - _TRANSPARENT_ON
+  m_ValidKeywords: []
   m_InvalidKeywords:
   - ALPHAPREMULTIPLY_ON
   - ALPHA_SCALE_ON
@@ -26,12 +24,11 @@ Material:
   m_LightmapFlags: 1
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 3034
+  m_CustomRenderQueue: 2484
   stringTagMap:
-    RenderType: Transparent
+    RenderType: TransparentCutout
   disabledShaderPasses:
   - DistortionVectors
-  - SHADOWCASTER
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
@@ -49,7 +46,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ColorAlphaRamp:
-        m_Texture: {fileID: 2800000, guid: 6f75cad23a796504abea858dc087d847, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0.01, y: 0}
     - _DissolveMap:
@@ -69,7 +66,7 @@ Material:
         m_Scale: {x: 0.5, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex1:
-        m_Texture: {fileID: 2800000, guid: 8020ed3f42830754eb8f551ac968f2b2, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 0.1, y: 0.2}
         m_Offset: {x: 0.3, y: -0.3}
     - _MasksMap:
@@ -81,11 +78,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Noise0Tex:
-        m_Texture: {fileID: 2800000, guid: cc9efa59dd6a09d49ac15403d22bae19, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 0.1, y: 0.3}
         m_Offset: {x: 0, y: 0}
     - _Noise1Tex:
-        m_Texture: {fileID: 2800000, guid: cc9efa59dd6a09d49ac15403d22bae19, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 0.1, y: 0.3}
         m_Offset: {x: 0, y: 0}
     - _PosVatMap:
@@ -139,7 +136,7 @@ Material:
     - _DistortionThicknessScale: 1
     - _DoubleSided: 0
     - _DoubleSidedNormalMode: 1
-    - _DstBlend: 10
+    - _DstBlend: 0
     - _Emission: 0
     - _EmissionAlbedoSuppression: 0
     - _EmissionColorFactor: 0
@@ -223,8 +220,8 @@ Material:
     - _VirtualOffset: 0.1
     - _VirtualOffsetVertexPosition: 0
     - _WrapDiffuseFactor: 0.5
-    - _ZTest: 4
-    - _ZWrite: 0
+    - _ZTest: 3
+    - _ZWrite: 1
     m_Colors:
     - _AdditionalAlbedoColor: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}

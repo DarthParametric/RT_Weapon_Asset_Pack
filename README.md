@@ -54,6 +54,8 @@ Install the enduser mod from Nexus or ModFinder in order to be able to test that
 
 **N.B.:** Make sure you do ***not*** physically include any of the asset pack's content in your own mod folder! Your mod only requires blueprint references. Endusers will need to download the mod version of the asset pack separately. 
 
+Custom VFX are not included in the enduser mod. However, an example lascannon beam VFX project is provided in the release section. You can include its content in your own mod, or use it as a basis to make your own.
+
 If you are manually editing blueprints rather than using the template, refer to the [GUID reference sheet](Asset_GUID_Reference_Sheet.md) for the values to use.
 
 While not strictly necessary, it is suggested that you add the asset pack's ID (DPWeaponAssetPack) to your mod's dependency list. This will ensure that ModFinder will flag it as required when users install your mod.
