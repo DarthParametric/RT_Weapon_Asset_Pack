@@ -79,7 +79,7 @@ namespace OwlcatModification.Editor.Build.Tasks
                     var gp = obj["guid"]?.Value<string>();
                     var fp = obj["fileid"]?.Value<long>();
                     
-                    // DP EDIT START
+                    #region ASSETS_OUTSIDE_MOD_FOLDER_PATCH
                     string assetPath = AssetDatabase.GUIDToAssetPath(gp);
 
                     if (assetPath != null && assetPath.Contains("Assets/Modifications"))
@@ -95,7 +95,7 @@ namespace OwlcatModification.Editor.Build.Tasks
                             continue;
                         }
                     }
-                    // DP EDIT END
+                    #endregion
                     
                     if (gp != null && fp != null)
                     {
