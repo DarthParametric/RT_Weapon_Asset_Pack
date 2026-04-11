@@ -170,7 +170,7 @@
       "Ability2": {
         "Type": "AOE",
         "Mode": "Any",
-        "m_Ability": "!bp_0bc1f945b05e4b5593ec6151c7109a06",
+        "m_Ability": "!bp_8fe7633db25d46a8bebc2868b8acff12",
         "m_FXSettings": "!bp_78e14970df814b71b714f9bd82764abc",
         "OnHitOverrideType": "None",
         "m_OnHitActions": null,
@@ -240,9 +240,9 @@
     "WarhammerPenetration": 60,
     "DodgePenetration": 0,
     "AdditionalHitChance": 0,
-    "WarhammerRecoil": 0,
-    "WarhammerMaxDistance": 8,
-    "WarhammerMaxAmmo": 4,
+    "WarhammerRecoil": 8,
+    "WarhammerMaxDistance": 15,
+    "WarhammerMaxAmmo": 6,
     "RateOfFire": 0,
     "m_Enchantments": [],
     "m_DamageType": {

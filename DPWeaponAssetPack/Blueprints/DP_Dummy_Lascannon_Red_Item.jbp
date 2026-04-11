@@ -185,9 +185,9 @@
         "AP": 3
       },
       "Ability2": {
-        "Type": "Burst",
+        "Type": "AOE",
         "Mode": "Any",
-        "m_Ability": "!bp_79c599233ec940f184f06741d1cc94fd",
+        "m_Ability": "!bp_8fe7633db25d46a8bebc2868b8acff12",
         "m_FXSettings": "!bp_78e14970df814b71b714f9bd82764abc",
         "OnHitOverrideType": "None",
         "m_OnHitActions": null,
