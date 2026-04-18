@@ -352,18 +352,7 @@ MonoBehaviour:
   m_RateOverTimeScale: 1
   m_BurstScale: 1
   ParticleSize: 0.35
-  FxLocatorsObjects:
-  FxLocatorsObjects:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  FxLocatorsObjects: []
   FxLocators: []
   m_Bones:
   - Name: Locator_WeaponSurface_00

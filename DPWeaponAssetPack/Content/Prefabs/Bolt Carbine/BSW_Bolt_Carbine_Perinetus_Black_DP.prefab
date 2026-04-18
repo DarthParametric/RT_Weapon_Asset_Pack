@@ -1,0 +1,455 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3416926886327476187
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2007538288181431227}
+  - component: {fileID: 4140271165089368898}
+  m_Layer: 0
+  m_Name: Locator_WeaponShellFX_00
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2007538288181431227
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3416926886327476187}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.1618349, y: 0.6883382, z: 0.1618349, w: 0.6883382}
+  m_LocalPosition: {x: 0.0474, y: 0.1624, z: 0.202}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6675069409365718377}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4140271165089368898
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3416926886327476187}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 623982101, guid: 017604c229ee99e479fac90eee51887f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Group:
+    guid: 7da7b68657474faaa60190ac6a9b944c
+  particleMap: {fileID: 8729535180029473000}
+  Data:
+    Name: 
+    Aliases: []
+    ParticleSize: 1
+    LocalOffset: {x: 0, y: 0, z: 0}
+    Rotate: 0
+    CameraOffset: 0
+    Flags: 1
+  bonesMap: {fileID: 0}
+--- !u!1 &5751975279996038703
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8205678489667774150}
+  - component: {fileID: 741485584355246789}
+  m_Layer: 0
+  m_Name: Locator_WeaponMuzzleFX_00
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8205678489667774150
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5751975279996038703}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.1199, z: 0.6649}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6675069409365718377}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &741485584355246789
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5751975279996038703}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 623982101, guid: 017604c229ee99e479fac90eee51887f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Group:
+    guid: 502467bbbcc0471285a4ab6936a285d8
+  particleMap: {fileID: 8729535180029473000}
+  Data:
+    Name: Locator_WeaponMuzzleFX_00
+    Aliases: []
+    ParticleSize: 1
+    LocalOffset: {x: 0, y: 0, z: 0}
+    Rotate: 0
+    CameraOffset: 0
+    Flags: 1
+  bonesMap: {fileID: 0}
+--- !u!1 &6578800676065426200
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6675069409365718377}
+  - component: {fileID: 4314514379609957863}
+  - component: {fileID: 5079955918772174821}
+  - component: {fileID: 8578005199042820380}
+  - component: {fileID: 8729535180029473000}
+  m_Layer: 0
+  m_Name: BSW_Bolt_Carbine_Perinetus_Black_DP
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6675069409365718377
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6578800676065426200}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5746524892415672606}
+  - {fileID: 8205678489667774150}
+  - {fileID: 2007538288181431227}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4314514379609957863
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6578800676065426200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03662cf34d3147447bf0ea7e048b9741, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &5079955918772174821
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6578800676065426200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2616a68ce5ebe9443b6c3c357557bd05, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &8578005199042820380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6578800676065426200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2011275679, guid: 017604c229ee99e479fac90eee51887f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MainHand:
+    Position: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0}
+  m_OffHand:
+    Position: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0}
+  m_SlotOffsets:
+  - Position: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0}
+  - Position: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0}
+  - Position: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0}
+  - Position: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0}
+  - Position: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0}
+  - Position: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0}
+  - Position: {x: -0.143, y: -0.011000001, z: -0.039}
+    Rotation: {x: 359.42792, y: 343.86157, z: 263.85406}
+  - Position: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0}
+  - Position: {x: 0.05900001, y: -0.008000001, z: -0.047999967}
+    Rotation: {x: 358.11685, y: 34.81652, z: 97.56463}
+  - Position: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0}
+  - Position: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0}
+  - Position: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0}
+  BackpackOffsets: 0
+  JointsParent: {fileID: 0}
+  IkTargetLeftHand: {fileID: 0}
+  IkTargetRightHand: {fileID: 0}
+  raceOffset: []
+  raceScaleList: []
+--- !u!114 &8729535180029473000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6578800676065426200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 921470604, guid: 017604c229ee99e479fac90eee51887f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UseLocatorGroups: 0
+  m_ParticleSizeScale: 1
+  m_SizeScale: 1
+  m_LifetimeScale: 1
+  m_RateOverTimeScale: 1
+  m_BurstScale: 1
+  ParticleSize: 0.35
+  FxLocatorsObjects:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  FxLocators: []
+  m_Bones:
+  - Name: Locator_WeaponSurface_00
+    Aliases: []
+    ParticleSize: 0.23
+    LocalOffset: {x: 0, y: 0, z: 0}
+    Rotate: 0
+    CameraOffset: 0.115
+    Flags: 0
+  - Name: Locator_WeaponSurface_01
+    Aliases: []
+    ParticleSize: 0.23
+    LocalOffset: {x: 0, y: 0, z: 0}
+    Rotate: 0
+    CameraOffset: 0.115
+    Flags: 0
+  - Name: Locator_WeaponSurface_02
+    Aliases: []
+    ParticleSize: 0.184
+    LocalOffset: {x: 0, y: 0, z: 0}
+    Rotate: 0
+    CameraOffset: 0.1
+    Flags: 0
+  - Name: Locator_WeaponSurface_03
+    Aliases: []
+    ParticleSize: 0.23
+    LocalOffset: {x: 0, y: 0, z: 0}
+    Rotate: 0
+    CameraOffset: 0.115
+    Flags: 0
+  - Name: Locator_WeaponSurface_04
+    Aliases: []
+    ParticleSize: 0.12
+    LocalOffset: {x: 0, y: 0, z: 0}
+    Rotate: 0
+    CameraOffset: 0.06
+    Flags: 0
+  - Name: Locator_WeaponSurface_05
+    Aliases: []
+    ParticleSize: 0.134
+    LocalOffset: {x: 0, y: 0, z: 0}
+    Rotate: 0
+    CameraOffset: 0.07
+    Flags: 0
+  - Name: Locator_WeaponSurface_06
+    Aliases: []
+    ParticleSize: 0.23
+    LocalOffset: {x: 0, y: 0, z: 0}
+    Rotate: 0
+    CameraOffset: 0.115
+    Flags: 0
+  - Name: Locator_WeaponSurface_07
+    Aliases: []
+    ParticleSize: 0.152
+    LocalOffset: {x: 0, y: 0, z: 0}
+    Rotate: 0
+    CameraOffset: 0.08
+    Flags: 0
+  - Name: Locator_WeaponCenterFX_00
+    Aliases: []
+    ParticleSize: 1
+    LocalOffset: {x: 0, y: 0, z: 0}
+    Rotate: 0
+    CameraOffset: 0.5
+    Flags: 0
+  - Name: Locator_WeaponMuzzleFX_00
+    Aliases: []
+    ParticleSize: 1
+    LocalOffset: {x: 0, y: 0, z: 0}
+    Rotate: 0
+    CameraOffset: 0.5
+    Flags: 0
+  - Name: Locator_WeaponShellFX_00
+    Aliases: []
+    ParticleSize: 1
+    LocalOffset: {x: 0, y: 0, z: 0}
+    Rotate: 0
+    CameraOffset: 0.5
+    Flags: 0
+  Slot: 0
+  DefaultTrailPrefab: {fileID: 0}
+  ColorGradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 0}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_ColorSpace: -1
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+  Alignment: 1
+  m_TrailBones: []
+--- !u!1 &7879394822396629302
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5746524892415672606}
+  - component: {fileID: 6756298915677917694}
+  - component: {fileID: 8131003300666734553}
+  m_Layer: 0
+  m_Name: BSW_Bolt_Carbine_Perinetus_weapon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5746524892415672606
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7879394822396629302}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6675069409365718377}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &6756298915677917694
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7879394822396629302}
+  m_Mesh: {fileID: -6394946348202779929, guid: 89c6d9850a358154cab989ae1e66ce78, type: 3}
+--- !u!23 &8131003300666734553
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7879394822396629302}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 50133603432218b4385208407b217976, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}

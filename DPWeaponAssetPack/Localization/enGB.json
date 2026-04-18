@@ -1,16 +1,19 @@
 {
 	"strings": {
+		"DP_Dummy_Bolt_Carbine_DisplayName": {
+			"Text": "Dummy Bolt Carbine BP - Do not use",
+		},
 		"DP_Dummy_Bolt_Sniper_DisplayName": {
 			"Text": "Dummy Bolt Sniper BP - Do not use",
+		},
+		"DP_Dummy_Autocannon_DisplayName": {
+			"Text": "Dummy Autocannon BP - Do not use",
 		},
 		"DP_Dummy_Lascannon_DisplayName": {
 			"Text": "Dummy Lascannon BP - Do not use",
 		},
 		"DP_Dummy_Plasma_Cannon_DisplayName": {
 			"Text": "Dummy Plasma Cannon BP - Do not use",
-		},
-		"DP_Dummy_Autocannon_DisplayName": {
-			"Text": "Dummy Autocannon BP - Do not use",
 		},
 		"DP_Dummy_ForceSword_DisplayName": {
 			"Text": "Dummy Force Sword BP - Do not use",

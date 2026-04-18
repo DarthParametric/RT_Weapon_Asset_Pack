@@ -19,26 +19,6 @@
         },
         "m_Overrides": [],
         "m_Fact": "!bp_53c19a9468d24539863989b3be9ed1f5"
-      },
-      {
-        "$type": "3c5267edd045432ab5bd6dbe606d4da3, AdditionalDescriptionComponent",
-        "name": "$AdditionalDescriptionComponent$e6910e2c-92f2-49cc-a5f0-d2578ebddc96",
-        "m_Flags": 0,
-        "PrototypeLink": {
-          "guid": "12f6bf208b4a4f78958f65627a57422e",
-          "name": "$AdditionalDescriptionComponent$e6910e2c-92f2-49cc-a5f0-d2578ebddc96"
-        },
-        "m_Overrides": [],
-        "AdditionalDescription": {
-          "m_Key": "",
-          "m_OwnerString": "",
-          "m_OwnerPropertyPath": "",
-          "m_JsonPath": "",
-          "Shared": {
-            "assetguid": "162ea8c0a03045446a4cb32b44ddb9d8",
-            "stringkey": "9ffa3cdb-8975-47be-8465-0dbc8da9229d"
-          }
-        }
       }
     ],
     "Author": "Unknown",
@@ -137,7 +117,7 @@
     "m_OnHitActions": null,
     "AbilityContainer": {
       "Ability1": {
-        "Type": "SingleShot",
+        "Type": "None",
         "Mode": "Default",
         "m_Ability": "!bp_9dec1bdade284190b0977f5f70d26d3e",
         "m_FXSettings": "!bp_e7be2fd14a994b97b4d4513f3e7e2b3b",
@@ -146,7 +126,7 @@
         "AP": 1
       },
       "Ability2": {
-        "Type": "AOE",
+        "Type": "None",
         "Mode": "Default",
         "m_Ability": "!bp_163013a18e9c46419b2311454ad2b2c8",
         "m_FXSettings": "!bp_e7be2fd14a994b97b4d4513f3e7e2b3b",

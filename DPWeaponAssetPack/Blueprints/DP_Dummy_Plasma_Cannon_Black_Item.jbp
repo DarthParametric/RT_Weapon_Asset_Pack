@@ -158,7 +158,7 @@
     "m_OnHitActions": null,
     "AbilityContainer": {
       "Ability1": {
-        "Type": "AOE",
+        "Type": "None",
         "Mode": "Default",
         "m_Ability": "!bp_a489b6d823ef4b86b431aa1d42e385c7",
         "m_FXSettings": "!bp_9fce4d1e156f42b7b962157080bc595a",
@@ -167,7 +167,7 @@
         "AP": 3
       },
       "Ability2": {
-        "Type": "AOE",
+        "Type": "None",
         "Mode": "Any",
         "m_Ability": "!bp_ae2ca6f5827949d89c87c62ed21ec2e2",
         "m_FXSettings": "!bp_effe16819ac3426cbedaba9337e95ead",
@@ -176,7 +176,7 @@
         "AP": 3
       },
       "Ability3": {
-        "Type": "Reload",
+        "Type": "None",
         "Mode": "Default",
         "m_Ability": "!bp_98f4a31b68e446ad9c63411c7b349146",
         "m_FXSettings": null,

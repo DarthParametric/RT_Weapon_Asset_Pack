@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Manifest:
     UniqueName: DPWeaponAssetPack
-    Version: 1.0
+    Version: 1.1.0
     DisplayName: DP Weapon Asset Pack
     Description: A collection of weapon models for use in 3rd party mods.
     Author: DarthParametric
-    Repository: 
-    HomePage: 
+    Repository: https://github.com/DarthParametric/RT_Weapon_Asset_Pack
+    HomePage: https://www.nexusmods.com/warhammer40kroguetrader/mods/428
     Dependencies:
     - Name: MicroPatches
       Version: 1.20

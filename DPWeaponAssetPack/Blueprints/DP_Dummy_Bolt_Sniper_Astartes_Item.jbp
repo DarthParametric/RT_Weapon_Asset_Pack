@@ -24,7 +24,12 @@
       "m_VisualParameters.m_WeaponAnimationStyle",
       "m_Icon",
       "WeaponAbilities.Ability2.m_FXSettings",
-      "WeaponAbilities.Ability2.m_Ability"
+      "WeaponAbilities.Ability2.m_Ability",
+      "Comment",
+      "WeaponAbilities.Ability1.Type",
+      "WeaponAbilities.Ability2.OnHitOverrideType",
+      "WeaponAbilities.Ability2.Type",
+      "WeaponAbilities.Ability3.Type"
     ],
     "Components": [
       {
@@ -98,10 +103,7 @@
       "m_OwnerString": "",
       "m_OwnerPropertyPath": "",
       "m_JsonPath": "",
-      "Shared": {
-        "assetguid": "7e4d15d8c9f54d14c8621ba099ec3931",
-        "stringkey": "dbe8f123-f327-41a7-bdf7-43b987e209a5"
-      }
+      "Shared": null
     },
     "m_NonIdentifiedNameText": {
       "m_Key": "",
@@ -172,7 +174,7 @@
     "m_OnHitActions": null,
     "AbilityContainer": {
       "Ability1": {
-        "Type": "SingleShot",
+        "Type": "None",
         "Mode": "Default",
         "m_Ability": "!bp_a489b6d823ef4b86b431aa1d42e385c7",
         "m_FXSettings": "!bp_51440c65ca9048d9bc2765dcbaf9f83f",
@@ -181,7 +183,7 @@
         "AP": 1
       },
       "Ability2": {
-        "Type": "Burst",
+        "Type": "None",
         "Mode": "Default",
         "m_Ability": "!bp_1cdd00b349324e7f958a8cb1dfcde2fe",
         "m_FXSettings": "!bp_51440c65ca9048d9bc2765dcbaf9f83f",
@@ -190,7 +192,7 @@
         "AP": 2
       },
       "Ability3": {
-        "Type": "Reload",
+        "Type": "None",
         "Mode": "Any",
         "m_Ability": "!bp_98f4a31b68e446ad9c63411c7b349146",
         "m_FXSettings": "!bp_51440c65ca9048d9bc2765dcbaf9f83f",

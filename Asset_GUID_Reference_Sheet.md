@@ -59,6 +59,30 @@ A list of all asset GUIDs/FileIds for use when manually editing blueprints. Refe
 ```
 
 ## Ranged Prefabs
+`BSW_Bolt_Carbine_Angelus_DP`
+```
+      "m_WeaponModel": {
+        "guid": "0b4cfbd9702f52747ba8872283a272ee",
+        "fileid": 4301810362897186041
+      },
+```
+
+`BSW_Bolt_Carbine_Perinetus_Black_DP`
+```
+      "m_WeaponModel": {
+        "guid": "29ce614460a949348bd42d75bef50926",
+        "fileid": 6578800676065426200
+      },
+```
+
+`BSW_Bolt_Carbine_Perinetus_Green_DP`
+```
+      "m_WeaponModel": {
+        "guid": "0c9c601953c2757429adedab7d23ed88",
+        "fileid": 2937308257836934832
+      },
+```
+
 `BSW_Bolt_Sniper_Astartes_DP`
 ```
       "m_WeaponModel": {
@@ -164,6 +188,30 @@ A list of all asset GUIDs/FileIds for use when manually editing blueprints. Refe
 ```
 
 ## Icons
+`ICO_BSW_Bolt_Carbine_Angelus`
+```
+    "m_Icon": {
+      "guid": "4c482124f289d374d833c255daaee002",
+      "fileid": 21300000
+    },
+```
+
+`ICO_BSW_Bolt_Carbine_Perinetus_Black`
+```
+    "m_Icon": {
+      "guid": "bb3950de79ce6514d9fe27d9dfdd7053",
+      "fileid": 21300000
+    },
+```
+
+`ICO_BSW_Bolt_Carbine_Perinetus_Green`
+```
+    "m_Icon": {
+      "guid": "d494b860892318f48bcb67e10e36c393",
+      "fileid": 21300000
+    },
+```
+
 `ICO_BSW_Bolt_Sniper`
 ```
     "m_Icon": {

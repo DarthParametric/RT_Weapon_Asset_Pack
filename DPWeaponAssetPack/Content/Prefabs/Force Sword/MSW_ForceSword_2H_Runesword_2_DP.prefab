@@ -11,7 +11,7 @@ PrefabInstance:
     - target: {fileID: 2303428077302067451, guid: 3b52c52a6504d69428dd6eeb7d7b644f,
         type: 3}
       propertyPath: m_Name
-      value: MSW_ForceSword_2H_Runesword_2_DP Variant
+      value: MSW_ForceSword_2H_Runesword_2_DP
       objectReference: {fileID: 0}
     - target: {fileID: 5885662488873004486, guid: 3b52c52a6504d69428dd6eeb7d7b644f,
         type: 3}
